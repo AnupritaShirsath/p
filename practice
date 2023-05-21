@@ -1,0 +1,20 @@
+public class firstClass1 {
+ public static void Addition()
+{
+ Integer a = 4;
+ Integer b = 5;
+ Integer c = a + b;
+ Integer d = 4 + 5;
+ Integer e = a + 5;
+ System.debug('Add = ' + c);
+ System.debug('Add =' + d);
+ System.debug('Add =' + e);
+}
+ 
+ #. Click on Open log then Execute code
+ 
+ git clone ...
+ cd lp-program
+ ls
+ python program.py
+ 
